@@ -4,6 +4,8 @@ Simulação construída baseada no vídeo [Exemplo de Modelo de Simulação](htt
 
 Essa simulação foi pensada para todos que não possuem e não querem crackear o matlab.
 
+Bugs ou sugestões, por favor crie uma issue :blush:
+
 Faça o download da simulação: [tank simulation](https://github.com/samuel-cavalcanti/simulacao_de_um_sistema_de_tanques_acoplados/releases/download/latest/tank_simulation.zcos)
 
 
