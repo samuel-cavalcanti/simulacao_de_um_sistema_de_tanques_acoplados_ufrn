@@ -6,7 +6,7 @@ Essa simulação foi pensada para todos que não possuem e não querem crackear 
 
 Bugs ou sugestões, por favor crie uma issue :blush:
 
-Faça o download da simulação: [tank simulation](https://github.com/samuel-cavalcanti/simulacao_de_um_sistema_de_tanques_acoplados/releases/download/latest/tank_simulation.zcos)
+Faça o download da simulação: [tank simulation](https://github.com/samuel-cavalcanti/simulacao_de_um_sistema_de_tanques_acoplados/releases/latest/download/tank_simulation.zcos)
 
 
 ![Diagrama de blocos](imagens/diagrama%20de%20blocos.png)
