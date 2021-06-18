@@ -8,6 +8,13 @@ Bugs ou sugestões, por favor crie uma issue :blush:
 
 Faça o download da simulação: [tank simulation](https://github.com/samuel-cavalcanti/simulacao_de_um_sistema_de_tanques_acoplados/releases/latest/download/tank_simulation.zcos)
 
+Para a utilização da simulação, por favor:
+
+ - Abra o scilab
+ - na aba scilab Console >> Applications >> Xcos >> File >> Open
+ - busque pelo arquivo baixado
+
+Mais informações sobre o Xcos pode ser encontrado no [xcos for beginners](scilab_Xcos_beginners.pdf)
 
 ![Diagrama de blocos](imagens/diagrama%20de%20blocos.png)
 <p align="center">
