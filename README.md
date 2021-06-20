@@ -16,7 +16,7 @@ Para a utilização da simulação, por favor:
 
 Mais informações sobre o Xcos pode ser encontrado no [xcos for beginners](scilab_Xcos_beginners.pdf)
 
-![Diagrama de blocos](imagens/diagrama%20de%20blocos.png)
+![Diagrama de blocos](imagens/diagrama%20de%20blocos%20v2.png)
 <p align="center">
 <strong>Diagrama de blocos da simulação</strong>
 </p>
